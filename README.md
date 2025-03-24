@@ -1,4 +1,4 @@
-# Hi there 👋🏾, I'm Reshma 🛹
+# Hi there 👋🏾, I'm Reshma 🐣
 
 ## Get to know me 🤝🏾
 I'm a Software Engineer with a passion for Database Systems, Peformance and Tooling. I write code mostly in Go and closely follow the community. 
